@@ -1,1 +1,0 @@
-// Image and short bio
