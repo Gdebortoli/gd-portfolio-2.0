@@ -1,3 +1,19 @@
+import React from "react";
+
+export default function Projects() {
+    return (
+    <div>
+        <Projects >
+
+        <form>
+        <p>jfhlkjhsdkjhg</p>
+        </form>
+
+         </ Projects>
+    </div>
+    );
+}
+
 // used multiple times in the Portfolio section
 
 /*
@@ -11,6 +27,4 @@ A link to the deployed application
 
 A link to the corresponding GitHub repository
 */
-
-export default Projects; 
 

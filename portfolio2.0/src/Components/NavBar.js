@@ -1,17 +1,13 @@
 import React from 'react';
-import AboutMe from '/Pages/AboutMe';
-import Contact from '/Pages/Contact';
-import Home from '/Pages/Home';
-import Resume from '/Pages/Resume';
 
-const NavBar = () => {
+const NavBar = ({ currentPage, handlePageChange }) => {
     return (
-        <navbar
+        <NavBar
 
         >
 
 
-        </navbar>
+        </NavBar>
     )
 
 };

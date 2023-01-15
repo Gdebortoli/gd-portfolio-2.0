@@ -2,10 +2,15 @@ import React from 'react';
 
 const Footer = () => {
     return (
-        <footer
-
-        >
-
+        <footer>
+            <div>
+            {/* Git hub link/icon */}
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" href="https://github.com/Gdebortoli" alt="github-link"/>
+            {/* Linked-In link/icon */}
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" href="https://www.linkedin.com/in/g-debortoli/" alt='Linked-in'/>
+            {/* Discord */}
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" href="Gigi D#4065" alt="discord-username"/>
+            </div>
 
         </footer>
     )

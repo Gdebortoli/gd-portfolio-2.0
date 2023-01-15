@@ -4,12 +4,9 @@ import React from 'react';
 
 const Header = () => {
     return (
-        <header
-
-        >
-
-
-        </header>
+        <Header>
+            <p>HI</p>
+        </Header>
     )
 
 };
